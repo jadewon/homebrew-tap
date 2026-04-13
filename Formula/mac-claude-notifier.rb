@@ -2,7 +2,7 @@ class MacClaudeNotifier < Formula
   desc "Native macOS notifications for Claude Code with click-to-activate terminal"
   homepage "https://github.com/jadewon/mac-claude-notifier"
   url "https://github.com/jadewon/mac-claude-notifier/releases/download/v0.1.0/ClaudeNotifier-v0.1.0-macOS.zip"
-  sha256 "34978fbcf2cfd3dca58ed0570c2b4304fd5149b19f130f7750e59a74e4237bdb"
+  sha256 "3955628a8a7da4d9be5a6bee6cc79efe85bf720953a0a6f2b4cf9b024a7ccb6b"
   version "0.1.0"
   license "MIT"
 
