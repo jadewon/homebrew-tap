@@ -1,8 +1,8 @@
 class Reclaude < Formula
   desc "Live browser for your Claude Code sessions"
   homepage "https://github.com/jadewon/reclaude"
-  url "https://github.com/jadewon/reclaude/archive/refs/tags/v0.1.5.tar.gz"
-  sha256 "bd2108d5b9f0087fa6a03705de8bbf514d72fe665c8cb85b83958d1f0da54699"
+  url "https://github.com/jadewon/reclaude/archive/refs/tags/v0.1.6.tar.gz"
+  sha256 "8925af7e9d265e3644700a37fa9b7fc0503952d76d21e24951425be4da9b6f64"
   license "MIT"
 
   depends_on "python@3.13"
